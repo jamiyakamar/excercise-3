@@ -1,0 +1,12 @@
+p::first-letter{
+    color: #2727e4;
+    font-style: bold;
+    font-size: 3pc;
+}
+p::first-line{
+    color:aqua;
+}
+p{
+    font-family:trirong ;
+    font-size: 2pc;
+}
